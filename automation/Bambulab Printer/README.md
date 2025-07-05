@@ -24,7 +24,7 @@ Diese Home Assistant Automationen steuern zwei Funktionen für Bambu Lab Drucker
 ### 📦 Voraussetzungen
 
 - [Bambu Lab Integration (via HACS)](https://github.com/nickw444/home-assistant-bambulab)
-- Eine über MQTT angebundene [**Tasmota-Steckdose**] (https://www.amazon.de/dp/B0054PSH9C?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- Eine über MQTT angebundene [**Tasmota-Steckdose**](https://www.amazon.de/dp/B0054PSH9C?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 - Home Assistant mit Automationen in YAML oder UI
 
 ---
@@ -88,7 +88,7 @@ These Home Assistant automations manage two behaviors for Bambu Lab printers (X1
 
 - [Bambu Lab Integration (via HACS)](https://github.com/nickw444/home-assistant-bambulab)
   - Provides printer state and nozzle temperature as sensors
-- One **Tasmota-based smart plug** per printer (via MQTT)
+- One [**Tasmota-based smart plug**](https://www.amazon.de/dp/B0054PSH9C?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) per printer (via MQTT)
 - Home Assistant with YAML or UI-based automation support
 
 ---
