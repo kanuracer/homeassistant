@@ -59,7 +59,7 @@ sensor.x1c_druckstatus
 sensor.p1s_druckstatus
 sensor.x1c_temperatur_der_duse
 sensor.p1s_temperatur_der_duse
-
+```
 ----
 # Home Assistant Automations for Bambu Lab Printers
 
@@ -123,3 +123,4 @@ sensor.x1c_druckstatus
 sensor.p1s_druckstatus
 sensor.x1c_temperatur_der_duse
 sensor.p1s_temperatur_der_duse
+```
