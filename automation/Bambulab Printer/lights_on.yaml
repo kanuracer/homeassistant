@@ -1,0 +1,15 @@
+alias: Drucker Beleuchtung einschalten
+description: Schaltet Beleuchtung für Drucker an, wenn einer der Drucker eingeschalten ist
+triggers:
+  - entity_id:
+      - switch.drucker_x1c
+      - switch.drucker_p1s
+    to: "on"
+    trigger: state
+conditions: []
+actions:
+  - target:
+      entity_id: switch.drucker_usb_licht
+    action: switch.turn_on
+    data: {}
+mode: single
